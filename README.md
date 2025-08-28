@@ -6,7 +6,7 @@ O objetivo foi identificar **hard skills**, **soft skills** e **faixas salariais
 ---
 
 ## Conteúdo do Repositório
-- `vagas_ti_analise.xlsx` → Planilha com as 8 vagas analisadas.  
+- `Planilha` → Planilha com 4 vagas analisadas.  
 - `pesquisa_mercado_TI.pdf` → Relatório em PDF com padrões e conclusões.  
 
 ---
