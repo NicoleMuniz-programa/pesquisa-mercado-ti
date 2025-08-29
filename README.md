@@ -1,12 +1,12 @@
 # Pesquisa de Mercado em TI - Desenvolvimento Web / Full-stack
 
-Este repositório contém uma análise de mercado baseada em **8 vagas reais** coletadas nas plataformas **Programathor** e **Glassdoor** (2025), com foco em **Desenvolvimento Web e Full-stack**.  
+Este repositório contém uma análise de mercado baseada em **5 vagas reais** coletadas nas plataformas **Programathor** e **Glassdoor** (2025), com foco em **Desenvolvimento Web e Full-stack**.  
 O objetivo foi identificar **hard skills**, **soft skills** e **faixas salariais** recorrentes, de forma a orientar um plano de desenvolvimento profissional.
 
 ---
 
 ## Conteúdo do Repositório
-- `Planilha` → Planilha com 4 vagas analisadas.  
+- `Planilha` → Planilha com 5 vagas analisadas.  
 - `pesquisa_mercado_TI.pdf` → Relatório em PDF com padrões e conclusões.  
 
 ---
